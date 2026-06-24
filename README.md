@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nhat Minh</h1>
 
 <h3 align="center">
-AI Engineer • Backend Engineer • Full-Stack Developer
+Aspiring AI Engineer
 </h3>
 
 <p align="center">
-Building AI-powered applications with LLMs, RAG systems, AI Agents, and modern web technologies.
+Passionate about developing AI-powered solutions using Machine Learning, Deep Learning, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). I have experience building end-to-end applications, from designing backend APIs and databases to creating user-friendly web interfaces. Currently focused on AI Agents, agentic workflows, and deploying scalable AI systems that solve real-world problems.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Education: Third-year Computer Science student at <a href="https://uet.vnu.edu.vn/">VNU-UET</a>
-* 🤖 Building AI-powered products using LLMs, RAG, and AI Agents
-* ⚙️ Experienced in Backend Development with FastAPI and PostgreSQL
-* 🌐 Developing modern web applications with React and TypeScript
-* 📚 Currently exploring Multi-Agent Systems and Production AI Systems
+🎓 Education: Third-year Computer Science student at <a href="https://uet.vnu.edu.vn/">VNU-UET</a>
+🤖 Aspiring AI Engineer with a strong interest in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents
+💻 Building end-to-end applications by combining AI technologies, backend systems, and modern web development
+🚀 Passionate about creating intelligent products that deliver practical value to users
+📚 Currently learning more about Agentic AI, Multi-Agent Systems, and scalable AI applications
 
 ---
 
@@ -75,5 +75,3 @@ Building AI-powered applications with LLMs, RAG systems, AI Agents, and modern w
 ## 📫 Connect With Me
 
 * Email: [minh2m5@gmail.com](mailto:minh2m5@gmail.com)
-* LinkedIn: your_linkedin_profile
-* Upwork: https://www.upwork.com/freelancers/~01b33af2147f699419

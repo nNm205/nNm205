@@ -20,35 +20,6 @@ Building AI-powered applications with LLMs, RAG systems, AI Agents, and modern w
 
 ---
 
-## 🏆 Featured Projects
-
-### ⚖️ ViLawGPT
-
-Vietnamese Legal Question Answering System powered by RAG and LLMs.
-
-**Tech Stack:**
-Python • FastAPI • Vector Database • LLMs • RAG
-
----
-
-### 🎤 AI Interview Simulator
-
-Interactive AI Interview Platform for candidate assessment and feedback.
-
-**Tech Stack:**
-LangGraph • OpenAI • FastAPI • PostgreSQL
-
----
-
-### 💰 Expense Management Application
-
-Full-stack application for personal finance and expense tracking.
-
-**Tech Stack:**
-React • FastAPI • PostgreSQL
-
----
-
 ## 🛠️ Tech Stack
 
 ### AI & Machine Learning

@@ -1,33 +1,64 @@
-# Hi there 👋 I'm Nhat Minh
+<h1 align="center">Hi 👋, I'm Nhat Minh</h1>
 
-🚀 AI Engineer | Backend Engineer | Full-Stack Developer
+<h3 align="center">
+AI Engineer • Backend Engineer • Full-Stack Developer
+</h3>
 
-I build AI-powered applications using LLMs, RAG systems, AI Agents, and modern web technologies.
+<p align="center">
+Building AI-powered applications with LLMs, RAG systems, AI Agents, and modern web technologies.
+</p>
 
-Currently focusing on:
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Backend Engineering with FastAPI
-- Full-Stack AI Applications
+---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- AI Engineer passionate about building real-world AI products
-- Experience with Machine Learning, Deep Learning, and LLM applications
-- Backend development using Python, FastAPI, PostgreSQL
-- Frontend development with React and TypeScript
-- Interested in AI Agents, Multi-Agent Systems, and Generative AI
+* 🎓 Computer Science student passionate about AI and Software Engineering
+* 🤖 Building AI-powered products using LLMs, RAG, and AI Agents
+* ⚙️ Experienced in Backend Development with FastAPI and PostgreSQL
+* 🌐 Developing modern web applications with React and TypeScript
+* 📚 Currently exploring Multi-Agent Systems and Production AI Systems
+
+---
+
+## 🏆 Featured Projects
+
+### ⚖️ ViLawGPT
+
+Vietnamese Legal Question Answering System powered by RAG and LLMs.
+
+**Tech Stack:**
+Python • FastAPI • Vector Database • LLMs • RAG
+
+---
+
+### 🎤 AI Interview Simulator
+
+Interactive AI Interview Platform for candidate assessment and feedback.
+
+**Tech Stack:**
+LangGraph • OpenAI • FastAPI • PostgreSQL
+
+---
+
+### 💰 Expense Management Application
+
+Full-stack application for personal finance and expense tracking.
+
+**Tech Stack:**
+React • FastAPI • PostgreSQL
+
+---
 
 ## 🛠️ Tech Stack
 
 ### AI & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 
-### LLM & AI Frameworks
+### LLM & AI Engineering
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
@@ -35,22 +66,32 @@ Currently focusing on:
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nnm205&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnm205&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
-- Email: minh2m5@gmail.com
-- LinkedIn: linkedin.com/in/your-profile
-- Upwork: your-upwork-profile
+* Email: [your_email@gmail.com](mailto:your_email@gmail.com)
+* LinkedIn: your_linkedin_profile
+* Upwork: your_upwork_profile

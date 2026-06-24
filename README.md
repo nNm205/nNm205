@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Minh Nguyen
+# Hi there 👋 I'm Nhat Minh
 
 🚀 AI Engineer | Backend Engineer | Full-Stack Developer
 

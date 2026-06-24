@@ -12,11 +12,11 @@ Passionate about developing AI-powered solutions using Machine Learning, Deep Le
 
 ## 🚀 About Me
 
-🎓 Education: Third-year Computer Science student at <a href="https://uet.vnu.edu.vn/">VNU-UET</a>
-🤖 Aspiring AI Engineer with a strong interest in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents
-💻 Building end-to-end applications by combining AI technologies, backend systems, and modern web development
-🚀 Passionate about creating intelligent products that deliver practical value to users
-📚 Currently learning more about Agentic AI, Multi-Agent Systems, and scalable AI applications
+🎓 Education: Third-year Computer Science student at <a href="https://uet.vnu.edu.vn/">VNU-UET</a><br/>
+🤖 Aspiring AI Engineer with a strong interest in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents<br/>
+💻 Building end-to-end applications by combining AI technologies, backend systems, and modern web development<br/>
+🚀 Passionate about creating intelligent products that deliver practical value to users<br/>
+📚 Currently learning more about Agentic AI, Multi-Agent Systems, and scalable AI applications<br/>
 
 ---
 
